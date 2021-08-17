@@ -4,7 +4,7 @@
 - [x] Vanilla JS
 - [x] React
 - [x] Angular
-- [ ] Vue
+- [x] Vue
 - [ ] Svelte
 - [ ] Solid
 - [ ] Next
