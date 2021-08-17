@@ -5,7 +5,7 @@
 - [x] React
 - [x] Angular
 - [x] Vue
-- [ ] Svelte
+- [x] Svelte
 - [ ] Solid
 - [ ] Next
 - [ ] Nest
